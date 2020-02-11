@@ -1,0 +1,26 @@
+.bg-black {
+    background-color: #1f1d21;
+}
+
+.medium-widget-article__image img {
+    max-width: none;
+}
+
+.projectImage {
+    border-radius: 20px;
+}
+
+.projectHeader {
+    margin-bottom: 8px!important;
+        margin-top: 12px!important;
+    padding-top: 0px!important;
+    
+}
+
+.noLink:hover {
+    text-decoration: none
+        
+}
+.bottomSpace {
+    margin-bottom: 26px
+}
